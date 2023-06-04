@@ -18,8 +18,19 @@ body{background-color: black;
 
 
 .navbar{padding:5px 5px 5px 5px ;
-
+color:#333
 ; }
+
+
+.nav-link{color:white;
+
+}
+
+
+.nav-item{color:white;
+
+}
+
 
 
 
@@ -37,7 +48,7 @@ text-align: center;
     bottom: 0;
     width: 100%;
     background-color: rgb(10, 6, 6);
-    color: white;
+    color:#333;
     text-align: center;
 
 }
